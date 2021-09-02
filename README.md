@@ -1,7 +1,10 @@
 # All-in-one-data-structure
 
 ## Description:
-This project is a menu-driven program of all data structure like - array, stack, queue, linked list, the tree at one place, So anyone who wants to perform an operation on any type data structure they can choose from the menu and able to use it.
+It is a console based appilcation made in C++ language. This project is a menu-driven program of all data structure like - array, stack, queue, linked list, at one place, So anyone who wants to perform an operation on any type data structure they can choose from the menu and able to use it.
+
 ## Technology used:
-C++ language , data structure, sorting algorithms
+- C++ language
+- Data structure : Array, Stack, Queue, Linked List.
+- Sorting algorithms : Insertion sort, Quick sort, Merge sort etc.
 
